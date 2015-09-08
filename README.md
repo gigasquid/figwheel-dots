@@ -28,6 +28,13 @@ To create a production build run:
 And open your browser in `resources/public/index.html`. You will not
 get live reloading, nor a REPL.
 
+## Exploring
+Try exploring with these ideas
+
+*  Make more dots
+*  Make the dots different colors based on value
+*  Make the dots move around
+
 ## License
 
 Copyright © 2014 FIXME
